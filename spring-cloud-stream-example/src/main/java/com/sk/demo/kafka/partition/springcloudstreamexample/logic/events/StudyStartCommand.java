@@ -1,4 +1,4 @@
-package com.sk.demo.kafka.partition.springcloudstreamexample.events;
+package com.sk.demo.kafka.partition.springcloudstreamexample.logic.events;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
